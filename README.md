@@ -23,10 +23,10 @@
   </a>
 </div>
 
-## 💻 DEV's log 💻
+## 💻 DEV's log - 제작중 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://jaesin463.github.io">
-        <img src="https://img.shields.io/badge/GithHub-181717?style=for-the-badge&logo=github"> 
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
     </a>
 </div><br>
 
