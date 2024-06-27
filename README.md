@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=ff8932&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+xinxe's+GitHub!👋)](https://git.io/typing-svg)
  
 <div align="left">
+<img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 -------
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxinxe&count_bg=%23FD6901&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxinxe&count_bg=%23FD6901&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=true">
 
 <div style="display: flex; flex-direction: row;">
   <picture>
@@ -26,7 +26,7 @@
 ## 💻 DEV's log - 제작중 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://jaesin463.github.io">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/GitHub Blog-181717?style=for-the-badge&logo=github">
     </a>
 </div><br>
 
