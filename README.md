@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=ff8932&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+xinxe's+GitHub!👋)](https://git.io/typing-svg)
  
 <div align="left">
-<img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white">
-
+ <a href="https://xinxe.notion.site/portfolio">
+  <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white">
+ </a>
+ 
 -------
 <div style="display: flex; flex-direction: row;">
 
