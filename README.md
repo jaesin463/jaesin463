@@ -4,31 +4,12 @@
 <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 -------
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxinxe&count_bg=%23FD6901&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=true">
-
 <div style="display: flex; flex-direction: row;">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jaesin463&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jaesin463&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=jaesin463&show_icons=true" />
-  </picture>
+
   <a href="https://solved.ac/jaesin463">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jaesin463" alt="Solved.ac 프로필" />
   </a>
 </div>
-
-## 💻 DEV's log - 제작중 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://jaesin463.github.io">
-        <img src="https://img.shields.io/badge/GitHub Blog-181717?style=for-the-badge&logo=github">
-    </a>
-</div><br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -38,9 +19,6 @@
     <a href="https://open.kakao.com/me/jaesin463">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-    <a href="https://www.instagram.com/kwonbi_">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
 </div><br>
     
 ## 🔨 Once I've used 🔨
@@ -49,7 +27,6 @@
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -78,7 +55,6 @@
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </div><br>
