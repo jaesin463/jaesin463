@@ -1,6 +1,8 @@
 ## Portfolio 👋
 
-**Here is the link: [Jaesin's Portfolio Link by Notion](https://xinxe.notion.site/portfolio)**
+**Here is the Blog: [Jaesin's Blog Link by Github](https://jaesin463.github.io/store/)**
+
+**Here is the Notion: [Jaesin's Portfolio Link by Notion](https://xinxe.notion.site/portfolio)**
 
 <img width="1348" height="375" alt="Image" src="https://github.com/user-attachments/assets/65731b3f-b5d4-41d9-9bd7-1f6b82afd3d0" />
 
